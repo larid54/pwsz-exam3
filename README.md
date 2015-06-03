@@ -7,7 +7,7 @@
 
 # Git
 
-* Fork and clone repo https://github.com/blabno/pwsz-exam2-git
+* Fork and clone repo https://github.com/blabno/pwsz-exam3-git
 * Merge feature branch `feature/subtract` to master with merge commit and resolve conflict if any
 * Rebase feature branch `feature/ping-pong` and merge to master using `fast-forward`
 * Create feature branch from master, add empty file `a.txt` to root directory, commit it and merge it to master
